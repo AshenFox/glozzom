@@ -1,3 +1,5 @@
+Посмотреть проект можно по ссылке - [Glozzom](https://ashenfox.github.io/glozzom/)
+
 # Glozzom
 
 Многостроничный сайт интернет магазина.
