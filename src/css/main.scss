@@ -14,7 +14,7 @@
 @import './libs/slick-theme';
 
 body {
-  overflow-x: hidden;
+  overflow-x: hidden !important;
 }
 
 #main-footer {
